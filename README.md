@@ -37,3 +37,4 @@ Bit streams forthe Ulx3s ECP5 device
 |[VIC 20](https://github.com/lawrie/ulx3s_vic_20) | Y | Y | N | Y | N | N | Y | N | N | N | N |
 |[ZX80](https://github.com/lawrie/ulx3s_zx81) | Y | Y | N | N | N | N | Y | N | N | N | N |
 |[ZX Spectrum](https://github.com/emard/ulx3s_zx_spectrum) | Y | Y | N | Y | N | N | Y | N | N | N | Y |
+|[68k experimental](https://github.com/lawrie/ulx3s_68k) | Y | Y | Y (hex) | Y | N | Y | Y | N | N | N | N |
