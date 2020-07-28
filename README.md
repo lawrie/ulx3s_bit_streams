@@ -32,7 +32,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[SNES](https://github.com/daveshah1/SNES_MiSTer_ulx3s) | Y | N | N | Y | N | N | N | N | N | N | N |
 |[TI99/2](https://github.com/emard/ti99_2) | Y | N | N | N | N | N | Y | N | N | N | N |
 |[TI99/4A](https://github.com/emard/icy99) | Y | N | N | N | N | N | Y | N | N | N | N |
-|TRS 80](https://github.com/lawrie/ulx3s_trs_80) | Y | Y | N | N | N | N | Y | N | N | N | N |
+|[TRS 80](https://github.com/lawrie/ulx3s_trs_80) | Y | Y | N | N | N | N | Y | N | N | N | N |
 |[VIC 20](https://github.com/lawrie/ulx3s_vic_20) | Y | Y | N | N | N | N | Y | N | N | N | N |
 |[ZX80](https://github.com/lawrie/ulx3s_zx81) | Y | Y | N | N | N | N | Y | N | N | N | N |
 |[ZX Spectrum](https://github.com/emard/ulx3s_zx_spectrum) | Y | Y | N | Y | N | N | Y | N | N | N | Y |
