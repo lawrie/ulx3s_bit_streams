@@ -5,7 +5,7 @@ Bit streams forthe Ulx3s ECP5 device
 | Core | HDMI | VGA | LCD | OSD | SD card | Uart | PS2 kbd | PS2 mouse | USB kbd | USB mouse | USB joystick |
 |------|------|-----|-----|-----|---------|------|---------|-----------|---------|-----------|--------------|
 |[Acorn Atom](https://github.com/lawrie/ulx3s_acorn_atom) | Y | Y | N | N | Y | N | Y | N | N | N | N |
-|Altair 8800 | N | N | N | N | N | Y | N | N | N | N | N |
+|[Altair 8800](https://github.com/ulx3s/fpga-odysseus/tree/master/tutorials/07-Computer) | N | N | N | N | N | Y | N | N | N | N | N |
 |[Amiga](https://github.com/emard/Minimig_ECS) | Y | N | N | Y | Y | N | N | N | Y | Y | Y |
 |[Apple1](https://github.com/lawrie/apple-one)| Y | N | N | N | N | Y | Y | N  | N | N | N |
 |[Apple2](https://github.com/emard/apple2fpga) | Y | N | Y (hex) | Y | Y | Y | Y | N | Y | N | Y |
@@ -18,9 +18,10 @@ Bit streams forthe Ulx3s ECP5 device
 |[Galaksija](https://github.com/emard/galaksija) | Y | N | N | N | N | Y | N | N | N | N | N |
 |[Gameboy](https://github.com/lawrie/slabboy) | N | N | Y | N | N | N | N | N | N | N | N | N |
 |[Jupiter Ace](https://github.com/lawrie/jupiter_ace) | Y | N | N | N | N | N | Y | N | N | N | N |
-|LiteX Linux | N | N | N | N | N | Y | N | N | N | N | N |
+|[LiteX Linux](https://github.com/litex-hub/linux-on-litex-vexriscv) | N | N | N | N | N | Y | N | N | N | N | N |
 |[Logic Sniffer](https://github.com/lawrie/Ice40LogicSniffer) | N | N | N | N | N | Y | N | N | N | N | N |
 |[MSX](https://github.com/lawrie/ulx3s_msx) | Y | Y | N | Y | N | N | Y | N | N | N | N |
+|[M68K](https://gitlab.com/pnru/ulx3s-misc/-/tree/master/M68K) | N | N | N | N | N | Y | Y | N | N | N | N |
 |[NES](https://github.com/emard/nes_ecp5) | Y | N | N | Y | N | N | N | N | N  | N | Y |
 |[Oberon](https://github.com/emard/oberon) | Y | N | N | N | Y | N | Y | Y | N | N | N |
 |[Orao](https://github.com/emard/UK101onFPGA) | Y | N | N | Y | N | N | Y | N | N | N | N |
