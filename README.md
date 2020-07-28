@@ -23,16 +23,16 @@ Bit streams forthe Ulx3s ECP5 device
 |[MSX](https://github.com/lawrie/ulx3s_msx) | Y | Y | N | Y | N | N | Y | N | N | N | N |
 |[NES](https://github.com/emard/nes_ecp5) | Y | N | N | Y | N | N | N | N | N  | N | Y |
 |[Oberon](https://github.com/emard/oberon) | Y | N | N | N | Y | N | Y | Y | N | N | N |
-|[Orao](https://github.com/emard/UK101onFPGA) | Y | N | N | N | N | N | Y | N | N | N | N |
+|[Orao](https://github.com/emard/UK101onFPGA) | Y | N | N | Y | N | N | Y | N | N | N | N |
 |[Phoenix Arcade](https://github.com/emard/vhdl_phoenix) | Y | N | N | N | N | N | N | N | N | N | N |
-|SaxonSoc Linux | Y | N | N | N | Y | Y | Y | N | Y | N | N |
+|[SaxonSoc Linux](https://github.com/SpinalHDL/SaxonSoc/tree/dev/bsp/Ulx3sLinuxUboot) | Y | N | N | N | Y | Y | Y | N | Y | N | N |
 |[ScopeIO](https://github.com/emard/hdl4fpga) | Y | N | N | N | N | N | N | N | N | Y | N |
 |[Sega SG-1000](https://github.com/lawrie/sg_1000) | Y| Y | N | Y | N | N | N | N | N | N | N |
-|[Sinclair QL](https://github.com/lawrie/ulx3s_ql) | Y | Y | N | Y | N | Y | Y | N | N | N | N |
+|[Sinclair QL](https://github.com/lawrie/ulx3s_ql) | Y | Y | Y (hex) | Y | N | Y | Y | N | N | N | N |
 |[SNES](https://github.com/daveshah1/SNES_MiSTer_ulx3s) | Y | N | N | Y | N | N | N | N | N | N | N |
-|[TI99/2](https://github.com/emard/ti99_2) | Y | N | N | N | N | N | Y | N | N | N | N |
-|[TI99/4A](https://github.com/emard/icy99) | Y | N | N | N | N | N | Y | N | N | N | N |
-|[TRS 80](https://github.com/lawrie/ulx3s_trs_80) | Y | Y | N | N | N | N | Y | N | N | N | N |
-|[VIC 20](https://github.com/lawrie/ulx3s_vic_20) | Y | Y | N | N | N | N | Y | N | N | N | N |
+|[TI-99/2](https://github.com/emard/ti99_2) | Y | N | N | N | N | N | Y | N | N | N | N |
+|[TI-99/4A](https://github.com/emard/icy99) | Y | N | N | Y | N | N | Y | N | N | N | N |
+|[TRS 80](https://github.com/lawrie/ulx3s_trs_80) | Y | Y | N | Y | N | N | Y | N | N | N | N |
+|[VIC 20](https://github.com/lawrie/ulx3s_vic_20) | Y | Y | N | Y | N | N | Y | N | N | N | N |
 |[ZX80](https://github.com/lawrie/ulx3s_zx81) | Y | Y | N | N | N | N | Y | N | N | N | N |
 |[ZX Spectrum](https://github.com/emard/ulx3s_zx_spectrum) | Y | Y | N | Y | N | N | Y | N | N | N | Y |
