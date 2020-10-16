@@ -11,6 +11,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[Apple2](https://github.com/emard/apple2fpga) | Y | N | Y (hex) | Y | Y | Y | Y | N | Y | N | Y |
 |[AY 2 8500](https://github.com/lawrie/ulx3s_ay_3_8500) | N | Y | N | N | N | N | N | N | N | N | N | N |
 |[BBC Micro](https://github.com/lawrie/ulx3s_bbc_micro) | N | Y | N | N | Y | N | Y | N | N | N | N |
+|[Cortex](https://gitlab.com/pnru/cortex) | N | N | N | N | Y | Y | N | N | N | N | N | 
 |[Cosmac Elf](https://github.com/lawrie/FPGACosmacELF) | N | N | N | N | N | Y | N | N | N | N | N | 
 |[ColecoVision](https://github.com/lawrie/colecovision) | Y| Y | N | Y | N | N | N | N | N | N | N |
 |[CP/M](https://github.com/lawrie/ulx3s_cpm_z80) | Y | Y | N | N | Y | N | Y | N | N | N | N |
@@ -31,6 +32,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[Sega SG-1000](https://github.com/lawrie/sg_1000) | Y| Y | N | Y | N | N | N | N | N | N | N |
 |[Sinclair QL](https://github.com/lawrie/ulx3s_ql) | Y | Y | Y (hex) | Y | N | Y | Y | N | N | N | N |
 |[SNES](https://github.com/daveshah1/SNES_MiSTer_ulx3s) | Y | N | N | Y | N | N | N | N | N | N | N |
+|[Super Miyamoto Sprint](https://github.com/dan-rodrigues/super-miyamoto-sprint) | Y | N | N | N | N | N | N | N | N | N | Y |
 |[TI-99/2](https://github.com/emard/ti99_2) | Y | N | N | N | N | N | Y | N | N | N | N |
 |[TI-99/4A](https://github.com/emard/icy99) | Y | N | N | Y | N | N | Y | N | N | N | N |
 |[TRS 80](https://github.com/lawrie/ulx3s_trs_80) | Y | Y | N | Y | N | N | Y | N | N | N | N |
