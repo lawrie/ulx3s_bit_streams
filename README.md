@@ -26,6 +26,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[NES](https://github.com/emard/nes_ecp5) | Y | N | N | Y | N | N | N | N | N  | N | Y |
 |[Oberon](https://github.com/emard/oberon) | Y | N | N | N | Y | N | Y | Y | N | N | N |
 |[Orao](https://github.com/emard/UK101onFPGA) | Y | N | N | Y | N | N | Y | N | N | N | N |
+|[Ov7670](https://github.com/lawrie/ulx3s-nmigen-examples/tree/master/ov7670) | N | N | Y | N | N | N | N | N | N | N | N | N |
 |[Phoenix Arcade](https://github.com/emard/vhdl_phoenix) | Y | N | N | N | N | N | N | N | N | N | N |
 |[SaxonSoc Linux](https://github.com/SpinalHDL/SaxonSoc/tree/dev/bsp/Ulx3sLinuxUboot) | Y | N | N | N | Y | Y | Y | N | Y | N | N |
 |[ScopeIO](https://github.com/emard/hdl4fpga) | Y | N | N | N | N | N | N | N | N | Y | N |
