@@ -21,6 +21,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[Jupiter Ace](https://github.com/lawrie/jupiter_ace) | Y | N | N | N | N | N | Y | N | N | N | N |
 |[LiteX Linux](https://github.com/litex-hub/linux-on-litex-vexriscv) | N | N | N | N | Y | Y | N | N | N | N | N |
 |[Logic Sniffer](https://github.com/lawrie/Ice40LogicSniffer) | N | N | N | N | N | Y | N | N | N | N | N |
+|[Mac Plus](https://github.com/lawrie/ulx3s_mac128) | Y | N | N | Y | N | N | Y | Y | N | N | N |
 |[MSX](https://github.com/lawrie/ulx3s_msx) | Y | Y | N | Y | N | N | Y | N | N | N | N |
 |[M68K](https://gitlab.com/pnru/ulx3s-misc/-/tree/master/M68K) | N | N | N | N | N | Y | Y | N | N | N | N |
 |[NES](https://github.com/emard/nes_ecp5) | Y | N | N | Y | N | N | N | N | N  | N | Y |
