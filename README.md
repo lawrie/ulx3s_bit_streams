@@ -10,6 +10,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[Apple1](https://github.com/lawrie/apple-one)| Y | N | N | N | N | Y | Y | N  | N | N | N |
 |[Apple2](https://github.com/emard/apple2fpga) | Y | N | Y (hex) | Y | Y | Y | Y | N | Y | N | Y |
 |[AY 2 8500](https://github.com/lawrie/ulx3s_ay_3_8500) | N | Y | N | N | N | N | N | N | N | N | N | N |
+|[Commodore 64](https://github.com/emard/ulx3s_c64) | Y | N | N | Y | N | N | Y | N | N | N | N |
 |[BBC Micro](https://github.com/lawrie/ulx3s_bbc_micro) | N | Y | N | N | Y | N | Y | N | N | N | N |
 |[Cortex](https://gitlab.com/pnru/cortex) | N | N | N | N | Y | Y | N | N | N | N | N | 
 |[Cosmac Elf](https://github.com/lawrie/FPGACosmacELF) | N | N | N | N | N | Y | N | N | N | N | N | 
