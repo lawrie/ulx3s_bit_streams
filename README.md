@@ -33,6 +33,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[SaxonSoc Linux](https://github.com/SpinalHDL/SaxonSoc/tree/dev/bsp/Ulx3sLinuxUboot) | Y | N | N | N | Y | Y | Y | N | Y | N | N |
 |[ScopeIO](https://github.com/emard/hdl4fpga) | Y | N | N | N | N | N | N | N | N | Y | N |
 |[Sega SG-1000](https://github.com/lawrie/sg_1000) | Y| Y | N | Y | N | N | N | N | N | N | N |
+|[Sega Master System](https://github.com/lawrie/sms) | Y| Y | Y (hex) | Y | N | N | N | N | N | N | N |
 |[Sinclair QL](https://github.com/lawrie/ulx3s_ql) | Y | Y | Y (hex) | Y | N | Y | Y | N | N | N | N |
 |[SNES](https://github.com/daveshah1/SNES_MiSTer_ulx3s) | Y | N | N | Y | N | N | N | N | N | N | N |
 |[Super Miyamoto Sprint](https://github.com/dan-rodrigues/super-miyamoto-sprint) | Y | N | N | N | N | N | N | N | N | N | Y |
