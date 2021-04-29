@@ -5,7 +5,7 @@ Bit streams forthe Ulx3s ECP5 device
 | Core | HDMI | VGA | LCD | OSD | SD card | Uart | PS2 kbd | PS2 mouse | USB kbd | USB mouse | USB joystick |
 |------|------|-----|-----|-----|---------|------|---------|-----------|---------|-----------|--------------|
 |[Acorn Atom](https://github.com/lawrie/ulx3s_acorn_atom) | Y | Y | N | N | Y | N | Y | N | N | N | N |
-|[Altair 8800](https://github.com/ulx3s/fpga-odysseus/tree/master/tutorials/07-Computer) | N | N | N | N | N | Y | N | N | N | N | N |
+|[Altair 8800](https://github.com/ulx3s/fpga-odysseus/tree/master/tutorials/07-Computer) | Y | N | N | Y | N | Y | Y | N | N | N | N |
 |[Amiga](https://github.com/emard/Minimig_ECS) | Y | N | N | Y | Y | N | N | N | Y | Y | Y |
 |[Apple1](https://github.com/lawrie/apple-one)| Y | N | N | N | N | Y | Y | N  | N | N | N |
 |[Apple2](https://github.com/emard/apple2fpga) | Y | N | Y (hex) | Y | Y | Y | Y | N | Y | N | Y |
