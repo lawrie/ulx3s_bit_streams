@@ -8,6 +8,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[Altair 8800](https://github.com/ulx3s/fpga-odysseus/tree/master/tutorials/07-Computer) | Y | N | N | Y | N | Y | Y | N | N | N | N |
 |[Amiga](https://github.com/emard/Minimig_ECS) | Y | N | N | Y | Y | N | N | N | Y | Y | Y |
 |[Amstrad CPC](https://github.com/lawrie/amstrad_cpc) | Y | N | N | N | N | N | Y | N | N | N | N |
+|[APF-MP1000](https://github.com/lawrie/ulx3s-nmigen-examples/retro) | Y | N | N | N | N | N | N | N | N | N | N |
 |[Apple1](https://github.com/lawrie/apple-one)| Y | N | N | N | N | Y | Y | N  | N | N | N |
 |[Apple2](https://github.com/emard/apple2fpga) | Y | N | Y (hex) | Y | Y | Y | Y | N | Y | N | Y |
 |[AY 2 8500](https://github.com/lawrie/ulx3s_ay_3_8500) | N | Y | N | N | N | N | N | N | N | N | N | N |
