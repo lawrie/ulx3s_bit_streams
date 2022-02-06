@@ -14,6 +14,7 @@ Bit streams forthe Ulx3s ECP5 device
 |[AY 2 8500](https://github.com/lawrie/ulx3s_ay_3_8500) | N | Y | N | N | N | N | N | N | N | N | N | N |
 |[Commodore 64](https://github.com/emard/ulx3s_c64) | Y | N | N | Y | N | N | Y | N | N | N | N |
 |[BBC Micro](https://github.com/lawrie/ulx3s_bbc_micro) | N | Y | N | N | Y | N | Y | N | N | N | N |
+|[Camera](https://gitlab.com/lawrie/ulx3s-nmigen-examples/camera) | Y | N | N | N | N | N | N | N | N | N | N 
 |[Cortex](https://gitlab.com/pnru/cortex) | N | N | N | N | Y | Y | N | N | N | N | N | 
 |[Cosmac Elf](https://github.com/lawrie/FPGACosmacELF) | N | N | N | N | N | Y | N | N | N | N | N | 
 |[ColecoVision](https://github.com/lawrie/colecovision) | Y| Y | N | Y | N | N | N | N | N | N | N |
